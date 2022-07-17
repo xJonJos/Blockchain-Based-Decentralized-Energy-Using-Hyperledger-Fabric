@@ -1,0 +1,62 @@
+[
+    {
+        "transactionName": "energyExists",
+        "transactionLabel": "A test energyExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createEnergy",
+        "transactionLabel": "A test createEnergy transaction",
+        "arguments": [
+            "Energy-001",
+            "150",
+            "03-15",
+            "20-06-2022",
+            "prosumerA1"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readEnergy",
+        "transactionLabel": "A test readEnergy transaction",
+        "arguments": [
+            "Energy-001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteEnergy",
+        "transactionLabel": "A test deleteEnergy transaction",
+        "arguments": [
+            "Energy-001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "queryAllEnergy",
+        "transactionLabel": "A test queryAllEnergy transaction",
+        "arguments": [],
+        "transientData": {}
+    },
+    {
+        "transactionName": "getEnergyByRange",
+        "transactionLabel": "A test getEnergyByRange transaction",
+        "arguments": ["",""],
+        "transientData": {}
+    },
+    {
+        "transactionName": "getEnergyWithPagination",
+        "transactionLabel": "A test getEnergyWithPagination transaction",
+        "arguments": ["2",""],
+        "transientData": {}
+    },
+    {
+        "transactionName": "getEnergysHistory",
+        "transactionLabel": "A test getEnergysHistory transaction",
+        "arguments": ["Energy-001"],
+        "transientData": {}
+    }
+]
