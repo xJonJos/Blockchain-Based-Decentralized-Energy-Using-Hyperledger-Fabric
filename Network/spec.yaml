@@ -1,0 +1,28 @@
+fabric:
+
+  cas:
+  - "ca1.archon.denergy.com"
+  - "ca1.prosumer.denergy.com"
+  - "ca1.producer.denergy.com"
+  - "ca1.consumer.denergy.com"
+
+  peers: 
+  - "peer1.archon.denergy.com"
+  - "peer1.prosumer.denergy.com"
+  - "peer1.producer.denergy.com"
+  - "peer1.consumer.denergy.com"
+
+ 
+  orderers:
+  - "orderer1.denergy.com"
+  - "orderer2.denergy.com"
+  - "orderer3.denergy.com"
+  - "orderer4.denergy.com"
+  
+  settings:
+    ca:
+      FABRIC_LOGGING_SPEC: DEBUG
+    peer:
+      FABRIC_LOGGING_SPEC: DEBUG
+    orderer:
+      FABRIC_LOGGING_SPEC: DEBUG
