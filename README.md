@@ -20,5 +20,17 @@ Step 1  : Execute the file *installDependencies.sh* in the *Network* directory.
             
 step 2  : Restart the Operating System. After restart run below command.
 
-            ./installDependencies.sh bin
+            ./installDependencies.sh bin  
  
+ step 3 : Spin up the network.
+ 
+             ./startNetwork.sh
+             
+ step 4: Integrate Fabric Network with VSCode 
+      
+            https://youtu.be/LKO_ulNHv54
+            
+step 5 : Create Gateways.
+
+            https://youtu.be/vnIYSVUv1rI
+        
