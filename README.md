@@ -37,6 +37,10 @@ step 5 : Create Gateways.
 
             https://youtu.be/vnIYSVUv1rI
             
+**Below file contains the input set**
+
+            Energy-Input-Set.txt
+            
 **When You Test the Functions You Will Get the Outputs As Follows:**
 
 
