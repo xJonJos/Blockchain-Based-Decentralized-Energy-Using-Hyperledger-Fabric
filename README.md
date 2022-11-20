@@ -3,7 +3,7 @@ This project focus on enterprise smart grid solutions to manage energy exchange 
 
 **Prerequisites**
 
-Ubunut 20.04, 8 GB RAM, IBM Blockchain Extension (VSCode)
+**Ubunut 20.04, 8 GB RAM, IBM Blockchain Extension (VSCode)**
 
 *Note* : Other requirements are installed using the installDependencies.sh file. 
 
