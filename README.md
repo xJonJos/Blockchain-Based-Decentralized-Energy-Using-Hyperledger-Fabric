@@ -39,11 +39,11 @@ step 5 : Create Gateways.
 **When You Test the Functions You Will Get the Outputs As Follows:**
 
 
-**True Case : **
+**True Case :**
 ![True Case](https://user-images.githubusercontent.com/71092045/202915737-1115fca3-1108-44b7-ac1c-79d875be03ee.png)
 
 
-**False Case : **
+**False Case :**
 ![False Case](https://user-images.githubusercontent.com/71092045/202915770-50718270-47db-46f1-ac19-d548c9211bdf.png)
 
         
