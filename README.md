@@ -37,7 +37,7 @@ step 5 : Create Gateways.
 
             https://youtu.be/vnIYSVUv1rI
             
-**Below file contains the input set**
+**Below file contains the input data set**
 
             Energy-Input-Set.txt
             
