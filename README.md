@@ -37,10 +37,26 @@ step 5 : Create Gateways.
 
             https://youtu.be/vnIYSVUv1rI
             
+step 6: Scafold a Smart Contract.
+
+            https://youtu.be/RAQSMZG65as
+
+step 7 : How to package the Chaincode.
+
+            https://youtu.be/PsBHpU17eMU
+            
+step 8 : Deploying the Chaincode.
+
+            https://youtu.be/QkvKlWAO8cw
+            
+step 9 : Invoking the Chaincode.
+
+            https://youtu.be/zp7icyMLfWc
+            
 **Below file contains the input data set**
 
             Energy-Input-Set.txt
-            
+  
 **When You Test the Functions You Will Get the Outputs As Follows:**
 
 
