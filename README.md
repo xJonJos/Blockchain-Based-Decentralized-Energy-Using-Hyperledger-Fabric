@@ -7,8 +7,6 @@ Ubunut 20.04, 8 GB RAM, IBM Blockchain Extension (VSCode)
 
 *Note* : Other requirements are installed using the installDependencies.sh file. 
 
-
-
 Step 0  : Clone this repository to the root directory.
       
             git clone https://github.com/Jon-Jos/Blockchain-Based-Decentralized-Energy-Using-Hyperledger-Fabric.git
@@ -21,12 +19,16 @@ Step 1  : Execute the file *installDependencies.sh* in the *Network* directory.
 step 2  : Restart the Operating System. After restart run below command.
 
             ./installDependencies.sh bin  
+            
+**We use this spec.yaml file to build the network. Make sure it is saved properly.**
+![IMG_20221115_111954_892](https://user-images.githubusercontent.com/71092045/202915861-1263b5c1-b9d6-4085-8c8f-c31c45126353.png)        
+        
  
- step 3 : Spin up the network.
+step 3 : Spin up the network.
  
              ./startNetwork.sh
              
- step 4: Integrate Fabric Network with VSCode 
+step 4: Integrate Fabric Network with VSCode 
       
             https://youtu.be/LKO_ulNHv54
             
