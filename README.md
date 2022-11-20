@@ -21,6 +21,7 @@ step 2  : Restart the Operating System. After restart run below command.
             ./installDependencies.sh bin  
             
 **We use this spec.yaml file to build the network. Make sure it is saved properly.**
+
 ![IMG_20221115_111954_892](https://user-images.githubusercontent.com/71092045/202915861-1263b5c1-b9d6-4085-8c8f-c31c45126353.png)        
         
  
@@ -40,10 +41,12 @@ step 5 : Create Gateways.
 
 
 **True Case :**
+
 ![True Case](https://user-images.githubusercontent.com/71092045/202915737-1115fca3-1108-44b7-ac1c-79d875be03ee.png)
 
 
 **False Case :**
+
 ![False Case](https://user-images.githubusercontent.com/71092045/202915770-50718270-47db-46f1-ac19-d548c9211bdf.png)
 
         
