@@ -1,5 +1,8 @@
 # Blockchain-Based-Decentralized-Energy-Using-Hyperledger-Fabric
-This project focus on enterprise smart grid solutions to manage energy exchange between participants of the network.
+This blockchain project focused on CRUD (Create, Read, Update, Delete) operations is aimed to provide a decentralized and secure platform for storing and managing energy data. The project utilizes blockchain technology to ensure the immutability and integrity of the data, while also enabling multiple parties to access and modify the data in a transparent and traceable manner.
+
+The project includes features such as smart contract functionality for executing automated data transactions, IBM Blockchain Extension for CRUD operations, and encryption for securing sensitive information. By using a blockchain-based solution, the project could eliminate the need for intermediaries and increase the efficiency of data management processes, while also providing a tamper-proof record of all data transactions.
+
 
 **Prerequisites**
 
